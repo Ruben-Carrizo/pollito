@@ -1,11 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&display=swap');
 body {
-        background-image: url("./imagenes/pollito_y_yo.png");
-        background-repeat: no-repeat;
-        background-size: cover;
-    }
-    h1{ color: pink;
+        background-image: url("./imagenes/pollito_y_yo.png"); ;}
+                h1{ color: pink;
         font-size: 35px;
         display: flex;
         font-family: "Edu AU VIC WA NT Hand", cursive;
         align-items: center}
-     @import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&display=swap');
+   
